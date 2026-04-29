@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hyunjin-hwang.github.io/sitemap.xml
+Sitemap: https://jin-ninini.github.io/sitemap.xml

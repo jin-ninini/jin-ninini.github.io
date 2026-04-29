@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "jin-ninini/hyunjin-hwang.github.io",
+    "data-repo": "jin-ninini/jin-ninini.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
